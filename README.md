@@ -19,9 +19,7 @@ A simple Python command-line tool to fetch and display recent public activity fo
 
 1. **Open a terminal** and navigate to the project folder:
    
-	```sh
-	cd "c:\Users\Priyanshu Bhatt\Documents\Github-User-Activity"
-	```
+	
 
 2. **Run the script:**
    
